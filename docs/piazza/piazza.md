@@ -1,0 +1,1 @@
+## This extension does not handle user data.
